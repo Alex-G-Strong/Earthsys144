@@ -41,7 +41,7 @@ https://docs.openrefine.org/
 
 An **API** (**Application Programming Interface**) is, essentially, a set of instructions that allows computer programs to pass data back and forth. In the following exercise, we will be using a REST API, hosted by Stanford Libraries, at https://locator.stanford.edu.
 
-Web APIs allow you to submit a URL just like when you type a URL into your browser address bar. The important difference is that the URL we are submitting has a bit of data (an add`ress or `coordinate pair`) that we want to know something about. Rather than giving us back an `HTML` file that instructs our browser to retrieve images, text and other objects and arrange them into a webpage, the Web API we will use gives us back information about the `address` data we submit.
+Web APIs allow you to submit a URL just like when you type a URL into your browser address bar. The important difference is that the URL we are submitting has a bit of data (an address or `coordinate pair`) that we want to know something about. Rather than giving us back an `HTML` file that instructs our browser to retrieve images, text and other objects and arrange them into a webpage, the Web API we will use gives us back information about the `address` data we submit.
 
 
 ## Connecting to locator.stanford.edu Services
